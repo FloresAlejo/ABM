@@ -1,0 +1,10 @@
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\bin\Debug\ProyectoTacticaMK1.exe
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\bin\Debug\ProyectoTacticaMK1.pdb
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\bin\Debug\ProyectoTacticaMK1.xml
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\obj\x86\Debug\WindowsApplication1.FrmPrincipal.resources
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\obj\x86\Debug\ProyectoTacticaMK1.vbproj.GenerateResource.Cache
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\obj\x86\Debug\ProyectoTacticaMK1.exe
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\obj\x86\Debug\ProyectoTacticaMK1.xml
+C:\Flores,Alejo\PracticaTactica\Proyecto1\ProyectoTacticaMK1\ProyectoTacticaMK1\obj\x86\Debug\ProyectoTacticaMK1.pdb
